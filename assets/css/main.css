@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,300italic,500,500italic,Amatic+SC:700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300italic,500,500italic");
+@import url("https://fonts.googleapis.com/css?family=Amatic SC");
 
 /*
 	Reflex by Pixelarity
@@ -34,7 +35,7 @@ body {
 }
 
 h1 {
-	font-family: 'Amatic AS'
+	font-family: 'Amatic SC'
 }
 
 ol, ul {
