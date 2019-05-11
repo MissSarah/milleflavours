@@ -23,12 +23,16 @@
     3) Taarten
     - lijn 69:'Tartelette-taart': mag niet afkappen in midden van zin
         Ik ben zelf een nieuwe lijn begonnen zodat de tekst niet in twee geknipt word. En de breedte aangepast van die div. Zodat er teminste wat bij kan.
+
     - lijn 95 gepersonaliseerde taarten linken naar 'gelegenheden' waar link
     is ingevoegd
         done
+
     - lijn 108: waarom is die foto gedraaid?!
         Donkere magie. Dus ik heb nog donkerder magie gebruikt om die nog eens 90 graden te draaien
+
     - cijfer-lettertaarten: in zelfde formaat krijgen
+    
     - lijn 79 Images: waarom niet mooi onder elkaar? waarom staan die nu
     ineens collectief links uitgelijnd? Ik heb al die fucking secties en
     divs toch gesloten?!
