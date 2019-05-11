@@ -18,6 +18,7 @@
     2) Tartelettes
     - foto's links-rechts: waarom helemaal vervormd?
     - waarom is dat niet mooi uitgelijnd?
+        Oke, dees was niet bepaald simpel. Ze stonden zo raar om 2 redenen. De eerste rede was omdat nergens gedefineerd stond dat de foto en de tekst bij elkaar hoorde. Daarvoor dient die display:block. Het andere stuk was omdat image left de zaken defineert als een float. En bij een float kunnen divs overlappen. Waardoor alles naar de klote ging. Nu breek ik de float op het einde van elke block. En dat zorgt voor een mooiere aflijning.
 
     3) Taarten
     - lijn 69:'Tartelette-taart': mag niet afkappen in midden van zin
