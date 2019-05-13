@@ -44,3 +44,8 @@
     2) Op elke pagina de linken maken naar de FB en instapagina waar de
     icoontjes staan
     3) eventueel alle H2's ook in Amatic? Wat denk jij?
+
+
+### linkies
+
+    - https://instagram.com/milleflavours?igshid=1evcrmgwokdiy
