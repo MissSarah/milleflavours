@@ -3,6 +3,7 @@
 ### Voor Koen om te doen
 - Prijslijst moet sneller aanpasbaar zijn, doormiddel van een JSON bv.
 - Download linkie naar een PDF met de prijzen lijst
+- De links declaren en cross page aanspreekbaar maken
 
 ### Voor ONS om te doen
 
@@ -12,6 +13,7 @@
 
     1) Index:
     - Banner laatste insta/fb post
+      - Op elke pagina of enkel de index page ?
     - De titels aan de juiste pagina's linken
     - 'Ons aanbod' beter uitlijnen
 
@@ -32,6 +34,7 @@
         Donkere magie. Dus ik heb nog donkerder magie gebruikt om die nog eens 90 graden te draaien
 
     - cijfer-lettertaarten: in zelfde formaat krijgen
+      - Ik weet niet wat je hiermee bedoelt
     
     - lijn 79 Images: waarom niet mooi onder elkaar? waarom staan die nu
     ineens collectief links uitgelijnd? Ik heb al die fucking secties en
