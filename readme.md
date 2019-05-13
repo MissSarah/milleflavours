@@ -39,11 +39,13 @@
         Dit heb ik gefixed door opnieuw een block te declaren en de float op te lossen
 
     Algemeen:
-    1)waarom zijn de footers nergens meer 'full screen' zoals bij
-    indexpagina? tot tegen de kant, nu is dat een blok
-    2) Op elke pagina de linken maken naar de FB en instapagina waar de
+    1)waarom zijn de footers nergens meer 'full screen' zoals bij indexpagina? tot tegen de kant, nu is dat een blok
+        1) Er was een section niet gesloten. Eigenlijk 2 :)
+    1) Op elke pagina de linken maken naar de FB en instapagina waar de
     icoontjes staan
-    3) eventueel alle H2's ook in Amatic? Wat denk jij?
+        We moeten de linken trouwens eens samenzetten in 1 file en dan overal die file aanspreken. Als er nu ooit een link veranderd om gelijk welke reden gaat we wel even bezig zijn.
+    1) eventueel alle H2's ook in Amatic? Wat denk jij?
+       1) Beetje schrik dat dat hier en daar misplaatst gaat zijn
 
 
 ### linkies
