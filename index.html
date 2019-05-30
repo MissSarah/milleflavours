@@ -55,6 +55,7 @@
 								  Ontdek hier ons aanbod of contacteer ons voor een bestelling.</p>
 								</header>
 							</div>
+							
 						</div>
 					</section>
 
@@ -66,19 +67,7 @@
 								<p>Rutrum facilisis. Class aptent taciti sociosqu<br />
 								litora torquent et conubia etiam nostra.</p>
 							</header>
-							<ul class="icons major style2">
-								<li><span class="icon fa-code"><span class="label">Lorem</span></span></li><li>
-								<span class="icon fa-cog"><span class="label">Ipsum</span></span></li><li>
-								<span class="icon fa-diamond"><span class="label">Dolor</span></span></li><li>
-								<span class="icon fa-camera-retro"><span class="label">Feugiat</span></span></li><li>
-								<span class="icon fa-briefcase"><span class="label">Tempus</span></span></li>
-							</ul>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas. In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique eu nibh.</p>
-							<footer>
-								<ul class="actions special">
-									<li><a href="#" class="button">Meer info</a></li>
-								</ul>
-							</footer>
 						</div>
 					</section>
 
@@ -162,7 +151,6 @@
 								</div>			
 						  </section>
 							
-							
 						  <p>Al onze patisserie wordt vers en met de hand gemaakt. Dit kan dus tijdrovend zijn. <br/> Gelieve daarom steeds <strong>3 tot 5 dagen</strong> op voorhand te bestellen, voor grotere bestellingen liefst zo vroeg mogelijk.  <br/> 
 						  <br/> 
 						  Helaas levert Mille Flavours niet. Bestellingen zijn af te halen op de afgesproken datum, op het afgesproken uur, <br> in de <strong> Karel Werrebroecklei 17, 2970 ’s-Gravenwezel</strong>.</p>
@@ -228,6 +216,17 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script type="text/javascript" src="assets/js/instafeed.min.js"></script>
 
+			<script type="text/javascript">
+				var feed = new Instafeed({
+					get: 'tagged',
+					tagName: 'chocolade',
+					clientId: '26349b4d0c304468bd55a9676325fceb',
+					limit: 2,
+					sortBy: most-liked
+				});
+				feed.run();
+			</script>
 	</body>
 </html>
