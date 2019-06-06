@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,300italic,500,500italic");
+/*@import url("https://fonts.googleapis.com/css?family=Raleway:300,300italic,500,500italic");*/
 @import url("https://fonts.googleapis.com/css?family=Amatic SC");
 
 /*
@@ -126,7 +126,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: Raleway, Helvetica, sans-serif, "amatic-sc";
+		font-family: Helvetica, sans-serif, "amatic-sc";
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75;
